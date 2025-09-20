@@ -31,6 +31,7 @@ Repositório de Estudo de Logica de Programação Com Python.
     .Crie uma pasta onde ira querer clonar o repositorio.
     .Abra a pasta com o terminal.
     .No terminal: `git clone https://github.com/usuario/meu-projeto.git`.
+    .Para saber se relamente foi criado dar um "ls" ou "ls -l".
 
 ### 5. Editando o README.md.
     .O README.md é escrito em Markdown.
