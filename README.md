@@ -28,6 +28,8 @@ Repositório de Estudo de Logica de Programação Com Python.
 
 ### 4. Clonando o repositório.
     .No repositório, clique em 'Code > HTTPS' e copie o link.
+    .Crie uma pasta onde ira querer clonar o repositorio.
+    .Abra a pasta com o terminal.
     .No terminal: `git clone https://github.com/usuario/meu-projeto.git`.
 
 ### 5. Editando o README.md.
