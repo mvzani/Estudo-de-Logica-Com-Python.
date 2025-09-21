@@ -63,6 +63,7 @@ Repositório de Estudo de Logica de Programação Com Python.
     .Clique em 'Issues > New Issue'.
     .Descreva problema ou sugestão.
     .Adicione labels (bug, enhancement, etc.).
+[ x ] 8. Realizado com sucesso.
 
 ### 9. Projetos (Kanban).
     .Clique em 'Projects > New Project'.
