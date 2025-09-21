@@ -36,6 +36,7 @@ Repositório de Estudo de Logica de Programação Com Python.
 ### 5. Editando o README.md.
     .O README.md é escrito em Markdown.
     .Edite pelo site (ícone ✏■) ou no VS Code.
+    .Para abrir VS Code para edição basta apertar ( . ) do teclado tendo selecionado o repositorio desejado.
     .Exemplo de conteúdo: Meu Projeto Este é um projeto de exemplo. - Feito com ❤■.
 
 ### 6. Trabalhando com Branches.
