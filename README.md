@@ -68,15 +68,18 @@ Repositório de Estudo de Logica de Programação Com Python.
 ### 9. Projetos (Kanban).
     .Clique em 'Projects > New Project'.
     .Organize tarefas em colunas (To Do, Doing, Done).
+[ x ] 9. Realizado com sucesso.
 
 ### 10. Wiki.
     .Use a aba 'Wiki' para documentações maiores.
     .Clique em 'Create the first page'.
+[ x ] 10. Realizado com sucesso.    
 
 ### 11. Convidar colaboradores.
     .Vá em 'Settings > Collaborators'.
     .Clique em 'Add people' e insira o usuário.
     .Defina permissões (read, write, admin).
+[ x ] 11. Realizado com sucesso.
 
 ### 12. Segurança.
     .Use autenticação de 2 fatores (2FA).
