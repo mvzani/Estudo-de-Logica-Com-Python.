@@ -85,34 +85,42 @@ Repositório de Estudo de Logica de Programação Com Python.
     .Use autenticação de 2 fatores (2FA).
     .Ative Dependabot para alertas de segurança.
     .Defina regras de proteção de branch.
+[ x ] 12. Realizado com sucesso.    
 
 ### 13. Criando Tokens de Acesso.
     .Vá em 'Settings > Developer Settings > Personal Access Tokens'.
     .Clique em 'Generate new token'.
     .Defina permissões e copie o token gerado.
+[ x ] 13. Realizado com sucesso.
 
 ### 14. Commit e Push de Alterações.
     .Adicionar arquivos: `git add .`.
     .Salvar commit: `git commit -m 'mensagem'`.
     .Enviar para GitHub: `git push origin minha-branch`.
+[ x ] 14. Realizado com sucesso.
 
 ### 15. VS Code com Git/GitHub.
     .Instale Visual Studio Code.
     .Extensão recomendada: GitHub Pull Requests and Issues.
     .Gerencie commits, branches e PRs direto do editor.
+[ x ] 15. Realizado com sucesso.
 
 ### 16. GitHub Copilot.
     .Extensão paga que sugere código com IA.
     .Instale no VS Code.
     .Ajuda a acelerar a escrita de código.
+    .Instalei mas irei usar o chatgpt.
+[ x ] 16. Realizado com sucesso.
 
 ### 17. Extensões Úteis.
     .GitLens → histórico detalhado de commits.
     .Prettier → formatação automática.
     .GitHub Actions → automação de deploy/testes.
+[ x ] 17. Realizado com sucesso.
 
 ### 18. Outras funções.
     .Fork → cópia de repositórios de terceiros.
     .Stars → marcar favoritos.
     .Releases → criar versões do projeto.
     .Actions → CI/CD.
+[ x ] 18. Realizado com sucesso.
